@@ -1,4 +1,4 @@
 repo_owner: rodichevm
-kittygram_domain: полная ссылка (https://доменное_имя) на ваш проект Kittygram
-taski_domain: полная ссылка (https://доменное_имя) на ваш проект Taski
+kittygram_domain: https://kittygrimes.ddns.net
+taski_domain: https://taskinothaski.ddns.net
 dockerhub_username: rodichevm
