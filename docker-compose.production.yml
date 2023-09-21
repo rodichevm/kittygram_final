@@ -33,7 +33,7 @@ services:
     image: rodichevm/kittygram_gateway
     env_file: .env
     depends_on:
-      - db
+      - frontend
       - backend
     volumes:
       - static_volume:/static
