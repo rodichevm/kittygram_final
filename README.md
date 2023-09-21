@@ -1,5 +1,5 @@
 #  Проект «Kittygram»
-
+![Workflow](https://github.com/rodichevm/kittygram_final/actions/workflows/main.yml/badge.svg)
 ## Описание проекта:
 
 - #### Проект Kittygram позволяет пользователям поделиться фотографиями питомцев и рассказать о его достижениях!
